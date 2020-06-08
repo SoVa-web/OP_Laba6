@@ -13,7 +13,8 @@ class Function{
 public:
        //prototypes
        Function();
-
+       virtual double factorial(int number);
+       virtual double result(){return argument;};
        ~Function();
        //varieties
        double argument;
@@ -22,11 +23,15 @@ public:
 };
 
 class Sin: public Function{
-
+public:
+       Sin(double argument);
+       double result();
 };
 
 class Cos: public Function{
-
+public:
+       Cos(double argument);
+       double result();
 };
 
 #endif // FUNCTION_H_INCLUDED

@@ -1,9 +1,14 @@
 # depslib dependency file v1.0
-1591614923 source:c:\users\suprun\desktop\youngpro\project\laba6_op\op_laba6\laba6.1_op\function.cpp
+1591631763 source:c:\users\suprun\desktop\youngpro\project\laba6_op\op_laba6\laba6.1_op\function.cpp
 	"Function.h"
 
-1591614923 c:\users\suprun\desktop\youngpro\project\laba6_op\op_laba6\laba6.1_op\function.h
+1591631017 c:\users\suprun\desktop\youngpro\project\laba6_op\op_laba6\laba6.1_op\function.h
 	<iostream>
 	<cmath>
 	<string>
+
+1591614963 source:c:\users\suprun\desktop\youngpro\project\laba6_op\op_laba6\laba6.1_op\main.cpp
+	<iostream>
+	<string>
+	"Function.h"
 
