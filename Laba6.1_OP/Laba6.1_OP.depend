@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591614923 source:c:\users\suprun\desktop\youngpro\project\laba6_op\op_laba6\laba6.1_op\function.cpp
+	"Function.h"
+
+1591614923 c:\users\suprun\desktop\youngpro\project\laba6_op\op_laba6\laba6.1_op\function.h
+	<iostream>
+	<cmath>
+	<string>
+
